@@ -13,4 +13,4 @@ Dark, minimal and simple built with Java Swing and [Jaco MP3 Library](https://ja
 * Repeat.
 * It’s lightweight with very low CPU usage.
 
-[See More](https://pnevmalex.dev/projects/musiczone/).
+[See More](https://pnevmalex.dev/projects/musiczone/)
